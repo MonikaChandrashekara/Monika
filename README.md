@@ -26,7 +26,7 @@ Movie Database Mobile Application ( Android| Mobile Application| Java)
 Designed a simple movie database app, where the user save their favorite movie details.The user can add new movies, edit them, display them by their release year or rating and delete them.
 
 News Application using JSON API (Android | Mobile Application | Java)
-Designed an android news mobile application using JSON API. The application allows the user to retrieve news regarding various categories like sports, technology etc. The application displays the news content along with the corresponding images. The JSON file containing the news object is retrieved through the api and is parsed to extract the news articles in an Async class, where the news articles is stored in an arraylist. The arraylist is looped over to display the news onto the display screen.
+Designed an android news mobile application using JSON Parsing. Designed the application to enable the user to select the news source and displayed the news for the selected news source. Developed the application to allow the user to retrieve news regarding various categories like sports, technology etc. Designed the app to displays the news content along with the corresponding images.The JSON file containing the news object is retrieved through the api and is parsed to extract the news articles in an Async class, where the news articles is stored in an arraylist. The arraylist is looped over to display the news onto the display screen.
 
 Data Management in Iot for Weather Monitoring System(Android Mobile Application/ C)
 The purpose of the project is to design and develop a weather monitoring system which
