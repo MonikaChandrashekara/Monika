@@ -25,8 +25,10 @@ Designed an interactive and a dynamic web application which enables the users to
 Movie Database Mobile Application ( Android| Mobile Application| Java)
 Designed a simple movie database app, where the user save their favorite movie details.The user can add new movies, edit them, display them by their release year or rating and delete them.
 
+
 News Application using JSON API (Android | Mobile Application | Java)
 Designed an android news mobile application using JSON Parsing. Designed the application to enable the user to select the news source and displayed the news for the selected news source. Developed the application to allow the user to retrieve news regarding various categories like sports, technology etc. Designed the app to displays the news content along with the corresponding images.The JSON file containing the news object is retrieved through the api and is parsed to extract the news articles in an Async class, where the news articles is stored in an arraylist. The arraylist is looped over to display the news onto the display screen.
+
 
 Email Application (Android | Mobile Application | Java)
 Designed an E-mail Application by using OkHttp and Shared Preferences. Implemented user sign-in and sign up through API calls. Enabled the user to compose mails ,access their inbox and display the received mails.
@@ -35,6 +37,13 @@ Designed an E-mail Application by using OkHttp and Shared Preferences. Implement
 Music Track Serach Application (Android | Mobile Application | Java)
 Developed  a music track search application by  using JSON Parsing to retrieve the tracks, Recycler View 
 to display the lists and intents to shows the details of the selected music track using Action View.
+
+
+
+Photo Gallery Application (Android | Mobile Application | Java)
+IThis application uses a URL that retrieves a text file containing a dictionary of keywords and image URLs related to the associated keyword.The application consists of a single activity that enables the user to download and view online photos. 
+
+
 
 Data Management in Iot for Weather Monitoring System(Android Mobile Application/ C)
 The purpose of the project is to design and develop a weather monitoring system which
