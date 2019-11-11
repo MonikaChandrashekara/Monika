@@ -31,6 +31,11 @@ Designed an android news mobile application using JSON Parsing. Designed the app
 Email Application (Android | Mobile Application | Java)
 Designed an E-mail Application by using OkHttp and Shared Preferences. Implemented user sign-in and sign up through API calls. Enabled the user to compose mails ,access their inbox and display the received mails.
 
+
+Music Track Serach Application (Android | Mobile Application | Java)
+Developed  a music track search application by  using JSON Parsing to retrieve the tracks, Recycler View 
+to display the lists and intents to shows the details of the selected music track using Action View.
+
 Data Management in Iot for Weather Monitoring System(Android Mobile Application/ C)
 The purpose of the project is to design and develop a weather monitoring system which
 can be used for monitoring of physical parameters in an industry.Designed an embedded board with various sensors along with an SST processor and an GSM module. The processor is responsible for processing the sensor reading values and transmitting it to the GSM module which later transmits this data to the android mobile application. The application is designed to provide alerts based on the sensor readings received. The application also maintains a log of all the sensor reading values. In case of an safety emergency the application is designed to notify the nearby police and fire station.
