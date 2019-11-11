@@ -41,9 +41,11 @@ to display the lists and intents to shows the details of the selected music trac
 
 
 Photo Gallery Application (Android | Mobile Application | Java)
-IThis application uses a URL that retrieves a text file containing a dictionary of keywords and image URLs related to the associated keyword.The application consists of a single activity that enables the user to download and view online photos. 
+This application uses a URL that retrieves a text file containing a dictionary of keywords and image URLs related to the associated keyword.The application consists of a single activity that enables the user to download and view online photos. 
 
 
+Student Profile Builder Application(Android | Mobile Application | Java)
+The application enables a new student to enter and edit their information, and save it using shared preferences
 
 Data Management in Iot for Weather Monitoring System(Android Mobile Application/ C)
 The purpose of the project is to design and develop a weather monitoring system which
