@@ -28,6 +28,9 @@ Designed a simple movie database app, where the user save their favorite movie d
 News Application using JSON API (Android | Mobile Application | Java)
 Designed an android news mobile application using JSON Parsing. Designed the application to enable the user to select the news source and displayed the news for the selected news source. Developed the application to allow the user to retrieve news regarding various categories like sports, technology etc. Designed the app to displays the news content along with the corresponding images.The JSON file containing the news object is retrieved through the api and is parsed to extract the news articles in an Async class, where the news articles is stored in an arraylist. The arraylist is looped over to display the news onto the display screen.
 
+Email Application (Android | Mobile Application | Java)
+Designed an E-mail Application by using OkHttp and Shared Preferences. Implemented user sign-in and sign up through API calls. Enabled the user to compose mails ,access their inbox and display the received mails.
+
 Data Management in Iot for Weather Monitoring System(Android Mobile Application/ C)
 The purpose of the project is to design and develop a weather monitoring system which
 can be used for monitoring of physical parameters in an industry.Designed an embedded board with various sensors along with an SST processor and an GSM module. The processor is responsible for processing the sensor reading values and transmitting it to the GSM module which later transmits this data to the android mobile application. The application is designed to provide alerts based on the sensor readings received. The application also maintains a log of all the sensor reading values. In case of an safety emergency the application is designed to notify the nearby police and fire station.
