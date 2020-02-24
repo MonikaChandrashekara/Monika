@@ -48,6 +48,10 @@ Implemented the chess board using an 2D array
 Used HashMap to store the position of already placed chess piece on the board and referred to it in order to factor an answer for the next piece movement. Another Hashmap was used to record the empty positions and provide the choice to the user. On receiving the input from the user the position of the piece is updated.
 
 
+Gourmet Recipe Book(JavaScript/Node.js/MongoDB)
+Designed an interactive and a dynamic web application which enables the users to login and retrieve recipes.Its a web application with MVC pattern that is built using Node.js and MongoDB ,the application security is also implemented through input validation and authentication.The project uses EJS template pages for the presentation, routes for the controller and the business logic is defined using JavaScript objects. The front end web pages is designed using HTML5 and CSS3. The project has a session for each user wherein the user can add new recipes,retrieve saved recipes,provide feedback, rate and delete recipes.The retrieved data from each session user is updated in MongoDB.
+
+
 Balanced Binary Search Tree:
 Design:
 Created a Balanced Binary Search Tree from the input entered in the console.
@@ -56,7 +60,3 @@ Every time an Input String is entered, the input is added to the BST and BST is 
 
 Directed Graph(Algorithm and DataStructures/Java)
 Designed a java program to create a directed graph using the inputs for the console.The program also finds the shortest path from the source to all the vertices in the graph using Dijkstra's shortest path algorithm.
-
-
-Gourmet Recipe Book(JavaScript/Node.js/MongoDB)
-Designed an interactive and a dynamic web application which enables the users to login and retrieve recipes.Its a web application with MVC pattern that is built using Node.js and MongoDB ,the application security is also implemented through input validation and authentication.The project uses EJS template pages for the presentation, routes for the controller and the business logic is defined using JavaScript objects. The front end web pages is designed using HTML5 and CSS3. The project has a session for each user wherein the user can add new recipes,retrieve saved recipes,provide feedback, rate and delete recipes.The retrieved data from each session user is updated in MongoDB.
