@@ -27,6 +27,11 @@ Photo Gallery Application (Android | Mobile Application | Java)
 This application uses a URL that retrieves a text file containing a dictionary of keywords and image URLs related to the associated keyword.The application consists of a single activity that enables the user to download and view online photos. 
 
 
+Pizza Store Application (Android/Java) 
+Enabled the user to add toppings, delete toppings, choose for home delivery option and clear the pizza of
+toppings. Allowed the user to check out by calculating the total cost for the pizza.
+Added visual components dynamically to the activity according to user actions using android flexlayout.
+
 Student Profile Builder Application(Android | Mobile Application | Java)
 The application enables a new student to enter and edit their information, and save it using shared preferences
 
