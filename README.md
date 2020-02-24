@@ -17,7 +17,7 @@ Email Application (Android | Mobile Application | Java)
 Designed an E-mail Application by using OkHttp and Shared Preferences. Implemented user sign-in and sign up through API calls. Enabled the user to compose mails ,access their inbox and display the received mails.
 
 
-Music Track Serach Application (Android | Mobile Application | Java)
+Music Track Search Application (Android | Mobile Application | Java)
 Developed  a music track search application by  using JSON Parsing to retrieve the tracks, Recycler View 
 to display the lists and intents to shows the details of the selected music track using Action View.
 
